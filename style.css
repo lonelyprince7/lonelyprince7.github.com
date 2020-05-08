@@ -174,7 +174,7 @@ body{
     font-size:0;
 }
 .blocktitle{
-    font-size: 22px;
+    font-size: 25px;
     margin:20px 60px 20px;
     color:#FFF;
     font-weight: bold;
@@ -194,7 +194,7 @@ body{
     width:100px;
     height:20px;
     margin:0px 15px 10px 20px;
-    font-size:20px;
+    font-size:22px;
     color:greenyellow;
     float:left;
 }
