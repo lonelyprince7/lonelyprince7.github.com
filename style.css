@@ -176,7 +176,8 @@ body{
 .blocktitle{
     font-size: 22px;
     margin:20px 60px 20px;
-    color:white;
+    color:#FFF;
+    font-weight: bold;
 }
 .eblock{
     width:500px;
@@ -194,7 +195,7 @@ body{
     height:20px;
     margin:0px 15px 10px 20px;
     font-size:20px;
-    color:lightgray;
+    color:greenyellow;
     float:left;
 }
 .labelcont{
